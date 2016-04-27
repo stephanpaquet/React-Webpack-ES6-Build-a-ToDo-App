@@ -24,5 +24,5 @@ sudo npm install -g webpack webpack-dev-server
 
 ## Run webpack server
 ```
-
+webpack-dev-server
 ```
